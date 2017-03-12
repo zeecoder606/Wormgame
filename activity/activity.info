@@ -1,0 +1,10 @@
+[Activity]
+name = wormgame
+bundle_id = org.sugarlabs.wormgame
+icon = activity-generic1
+exec = sugar-activity TestActivity.TestActivity
+show_launcher = no
+activity_version = 1
+license = GPLv2+
+summary = play game
+
